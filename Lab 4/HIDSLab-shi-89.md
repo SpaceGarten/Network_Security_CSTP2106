@@ -12,7 +12,7 @@ Steps Taken:
 5. `sudo service wazuh-agent restart` to refresh the error status. Confirmed it is now resolved for Error 3005.
 
 ![](img/Error3005Fixed.JPG)
-    Updated from port 22 (commented) to port 2223
+    Updated to PermitEmptyPasswords yes
 
 ----
 
